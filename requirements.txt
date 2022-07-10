@@ -1,0 +1,6 @@
+wget
+requests
+psycopg2
+pyTelegramBotAPI
+convertapi
+beautifulsoup4
